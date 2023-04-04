@@ -1,0 +1,36 @@
+.shop {
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  .shop h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .shop ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .shop li {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .shop li h3 {
+    font-size: 20px;
+    margin: 0;
+  }
+  
+  .shop li p {
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  

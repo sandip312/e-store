@@ -1,0 +1,19 @@
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  .about-container h2 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  .about-container p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  
